@@ -1,0 +1,12 @@
+<main> tag specifies the main content of a document
+<small>  for smaller text (copyright, side-comments, ...)
+<br> line break
+href="#" or href="#top" to link to the top of the current page
+text-shadow:  horizontal   vertical   blur-radius
+vh: viewport height
+display: inline-block?
+
+viewport is the user's visible area of a web page.
+
+alt attribute in img tag: provides alternative information for an image if
+    a user for some reason cannot view it
